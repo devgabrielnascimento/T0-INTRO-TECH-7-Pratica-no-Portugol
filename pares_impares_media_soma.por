@@ -1,6 +1,6 @@
 programa
 {
-	/* Elaborar algoritmo que exiba no console elementos todos dez
+	/* Elaborar algoritmo que exiba no console elementos os
 	 *  elementos de um vector de 10 valores nos índices ímpares, pares,
 	 *  some todos esses elementos e em sequência faça a média.
 	 */
